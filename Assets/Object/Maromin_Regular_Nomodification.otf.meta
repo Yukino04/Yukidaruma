@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9fa5c1159db7d4b43abf2dd3b365e23f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Maromin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 84d9dbd52dcb0a848808bf6bed584eae, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
